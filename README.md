@@ -37,7 +37,5 @@ Hello, my name is Ajay Prakash Nair and I am a master's student at [Università 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Ajay's Github Stats](https://github-readme-stats.vercel.app/api?username=ajaynair710&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaynair710&hide=TeX&layout=compact)
-
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=ajaynair710&countColor=%23dce775)
+![Ajay's Github Stats](https://github-readme-stats.vercel.app/api?username=ajaynair710&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaynair710&theme=react&show_icons=true&hide_border=true&layout=compact)
