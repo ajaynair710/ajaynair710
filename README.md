@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Ajay Prakash Nair and I am a master's student at [Università Ca' Foscari Venezia](https://www.unive.it/) majoring in Computer Science. I am a frontend developer with two years of experience working as a Frontend Developer at [Fidelity National Information Services, Inc.](https://www.fisglobal.com/en) (Chennai, India) and Interned at [BMAT Music Innovators](https://www.bmat.com/) (Barcelona, Spain). My technology stack involves MySQL, javascript, Angular.js, Vue.js, Nuxt.js, Cypress and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in [designing](https://www.behance.net/perfecthood) and sports.
+Hello, my name is Ajay Prakash Nair, and I am a master's student at [Università Ca' Foscari Venezia](https://www.unive.it/) majoring in Computer Science. I am a frontend developer with two years of experience working as a Frontend Developer at [Fidelity National Information Services, Inc.](https://www.fisglobal.com/en) (Chennai, India) and as an intern at [BMAT Music Innovators](https://www.bmat.com/) (Barcelona, Spain). Currently, I am interning as an SDE Intern with [MTraversari](https://www.mtraversari.com/) (Venice, Italy). My technology stack includes MySQL, JavaScript, Angular.js, Vue.js, Nuxt.js, Cypress, SQL and HTML/CSS/Bootstrap. Besides programming, I have a keen interest in [designing](https://www.behance.net/perfecthood) and Sports Analytics.  
 
-- 🔭 I’m currently learning Data Science
-- 💬 Brainstorm with me over tech, algorithms, career, and sports
-- 👯 I’m looking to collaborate on Web Dev & ML Projects
+- 🔭 I’m currently exploring Sports Analytics.
+- 💬 Brainstorm with me over tech, algorithms, career, and sports.
+- 👯 I’m looking to collaborate on Web Dev, Sports Analytics & ML Projects.
 - ⚡ Fun fact: Friends call me Super Mario!
 - 📫 How to reach me: ajaynair710@gmail.com
 - 😄 Pronouns: Programmer/He/Him
