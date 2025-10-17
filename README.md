@@ -1,43 +1,81 @@
-### Hi there 👋, I am [Ajay Prakash Nair](https://www.linkedin.com/in/ajayprakashnair/)! 😁
-<!--
-**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<!-- Profile README for Ajay Prakash Nair -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with Statistics
-- 👯 I’m looking to collaborate on ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D9CDB&height=140&section=header&text=AJAY%20PRAKASH%20NAIR&fontSize=35&fontAlign=50&fontColor=fff" alt="header"/>
+</p>
 
-Hello, my name is Ajay Prakash Nair, and I am a master's student at [Università Ca' Foscari Venezia](https://www.unive.it/) majoring in Computer Science. I am a frontend developer with two years of experience working as a Frontend Developer at [Fidelity National Information Services, Inc.](https://www.fisglobal.com/en) (Chennai, India) and as an intern at [BMAT Music Innovators](https://www.bmat.com/) (Barcelona, Spain). Currently, I am interning as an SDE Intern with [MTraversari](https://www.mtraversari.com/) (Venice, Italy). My technology stack includes MySQL, JavaScript, Angular.js, Vue.js, Nuxt.js, Cypress, SQL and HTML/CSS/Bootstrap. Besides programming, I have a keen interest in [designing](https://www.behance.net/perfecthood) and Sports Analytics.  
+<p align="center">
+  <b>Software Engineer</b> | <b>AI & Data Enthusiast</b> <br>
+  Milan, Italy <br>
+  <a href="#">LinkedIn</a> &nbsp;|&nbsp; <a href="mailto:ajaynair710@gmail.com">Email</a> &nbsp;|&nbsp; <a href="#">GitHub</a>
+</p>
 
-- 🔭 I’m currently exploring Sports Analytics.
-- 💬 Brainstorm with me over tech, algorithms, career, and sports.
-- 👯 I’m looking to collaborate on Web Dev, Sports Analytics & ML Projects.
-- ⚡ Fun fact: Friends call me Super Mario!
-- 📫 How to reach me: ajaynair710@gmail.com
-- 😄 Pronouns: Programmer/He/Him
+---
 
-**Languages and Tools:** 
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+Hi there! 👋  
+I'm Ajay, a passionate software engineer who loves building high-impact digital platforms and AI-powered solutions. I thrive on solving complex problems, collaborating with diverse teams, and crafting user-centric, scalable applications that make a difference. My journey spans web development, cloud engineering, data science, and artificial intelligence.
 
-![Ajay's Github Stats](https://github-readme-stats.vercel.app/api?username=ajaynair710&theme=react&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaynair710&theme=react&show_icons=true&hide_border=true&layout=compact)
+---
+
+## 🛠️ Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,html,css,react,vue,angular,nuxt,nodejs,aws,docker,terraform,mysql,mongodb,redis,git,github" />
+</p>
+
+- **Fullstack Engineering:** JavaScript, TypeScript, Python, PHP
+- **Frontend:** React, Vue.js, Angular, Nuxt
+- **Backend / APIs:** Node.js, Laravel, RESTful APIs
+- **Cloud & DevOps:** AWS (Lambda, S3, RDS, SQS, SNS, EventBridge), Terraform, Docker
+- **Data & AI:** pandas, NumPy, Matplotlib, Power BI, ML pipelines
+- **Databases:** MySQL, MongoDB, Firebase, Redis
+- **CI/CD & Testing:** GitHub Workflows, Jest, Cypress
+- **Soft Skills:** Communication, Collaboration, Problem Solving, Adaptability
+
+---
+
+## 💼 Experience
+
+- **Traversari Digital Strategies (Venice, Italy):**  
+  Built advanced search ranking models with Python & Elasticsearch for lightning-fast queries.
+
+- **BMAT Music Innovators (Barcelona, Spain):**  
+  Modernized legacy apps (Nuxt2→Nuxt3), boosting performance and UX.
+
+- **FIS (Chennai, India):**  
+  Designed 15+ responsive UIs in React; slashed front-end bugs by 40%.
+
+- **IndBytes Technologies (Kochi, India):**  
+  Led user research and design, improving task completion and satisfaction.
+
+---
+
+## 🎓 Education
+
+- **MSc, Artificial Intelligence & Data Engineering**  
+  Università Ca' Foscari Venezia, Italy (2022–Present)
+
+- **BTech, Computer Science & Engineering**  
+  APJ Abdul Kalam Technological University, India (2017–2021)
+
+---
+
+## 📝 Publications
+
+- **Multi-Agent Reinforcement Learning**  
+  _Towards Efficient Coordination in Multi-Agent RL through Hybrid Information-Driven Approaches (2024)_
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always up for a chat about tech, AI, data science, or exciting collaborations!  
+Feel free to [reach out](mailto:ajaynair710@gmail.com) or connect on [LinkedIn](#).
+
+---
+
+<p align="center">
+  <i>“Code is creative. Problems are puzzles. Every day is a new build.”</i>
+</p>
